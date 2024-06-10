@@ -1,2 +1,3 @@
 # wassup3
-About a wassup3
+
+Yein Kim 
